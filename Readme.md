@@ -1,6 +1,11 @@
 # Rj cart
 
-an E-commerce Website built with MERN stack.
+an E-commerce Website built with MERN Stack
+<ul>
+  <li>It focuses on covering Authentication Mechanisms</li>
+  <li>It focuses on covering Authorization Techniques</li>
+  <li>It also covers Role based Access Control for Admin Panel</li>
+</ul>
 
 ## Instructions
 
